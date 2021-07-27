@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://lyeveyin.github.io/lyeve1998.top</id>
     <title>Lyeve&apos;blog</title>
-    <updated>2021-07-27T01:52:10.663Z</updated>
+    <updated>2021-07-27T01:53:18.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://lyeveyin.github.io/lyeve1998.top"/>
     <link rel="self" href="http://lyeveyin.github.io/lyeve1998.top/atom.xml"/>
@@ -24,12 +24,15 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【规划篇】高层办公建筑]]></title>
+        <title type="html"><![CDATA[【建筑类】【规划篇】]]></title>
         <id>http://lyeveyin.github.io/lyeve1998.top/post/gui-hua-pian-gao-ceng-ban-gong-jian-zhu/</id>
         <link href="http://lyeveyin.github.io/lyeve1998.top/post/gui-hua-pian-gao-ceng-ban-gong-jian-zhu/">
         </link>
         <updated>2021-06-17T01:29:35.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
+        <summary type="html"><![CDATA[<p>【规划篇】高层办公建筑</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>【规划篇】高层办公建筑</p>
+<!-- more -->
 <h2 id="一-核心筒">一、核心筒</h2>
 <p><strong>1</strong>、疏散楼梯及消防电梯：<br>
 2个防烟楼梯，其前室面积为<strong>6</strong>平米，每<strong>1500</strong>平米要一个消防电梯，其前室也是<strong>6</strong>平米；当两种前室合并的话，其合用前室是<strong>10</strong>平米。</p>
