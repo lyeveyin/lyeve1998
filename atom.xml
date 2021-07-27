@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://lyeveyin.github.io/lyeve1998.top</id>
     <title>Lyeve&apos;blog</title>
-    <updated>2021-07-27T01:55:14.462Z</updated>
+    <updated>2021-07-27T02:38:44.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://lyeveyin.github.io/lyeve1998.top"/>
     <link rel="self" href="http://lyeveyin.github.io/lyeve1998.top/atom.xml"/>
@@ -10,6 +10,46 @@
     <logo>http://lyeveyin.github.io/lyeve1998.top/images/avatar.png</logo>
     <icon>http://lyeveyin.github.io/lyeve1998.top/favicon.ico</icon>
     <rights>All rights reserved 2021, Lyeve&apos;blog</rights>
+    <entry>
+        <title type="html"><![CDATA[【软件类】]]></title>
+        <id>http://lyeveyin.github.io/lyeve1998.top/post/ruan-jian-lei/</id>
+        <link href="http://lyeveyin.github.io/lyeve1998.top/post/ruan-jian-lei/">
+        </link>
+        <updated>2021-07-27T02:37:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>CAD与天正</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>CAD与天正</p>
+<!-- more -->
+<p>1.查询面积<br>
+LIST、AA、cxmj</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【建筑类】]]></title>
+        <id>http://lyeveyin.github.io/lyeve1998.top/post/jian-zhu-lei/</id>
+        <link href="http://lyeveyin.github.io/lyeve1998.top/post/jian-zhu-lei/">
+        </link>
+        <updated>2021-07-27T01:55:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>【强排篇】</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>【强排篇】</p>
+<!-- more -->
+<p>1、用地性质（常见）<br>
+R11、21、31——一类二类三类住宅用地<br>
+R12、22、32——一类二类三类服务设施用地<br>
+A33——中小学用地<br>
+A5——医疗卫生用地<br>
+B1——商业用地<br>
+M——工业工地<br>
+G——绿地与广场用地</p>
+<p>2、基础资料<br>
+（1）地形cad：道路红线、用地红线、绿线<br>
+（2）场地条件<br>
+（3）控规及合同<br>
+（4）营销要求<br>
+（5）相关规范</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【纪念篇】]]></title>
         <id>http://lyeveyin.github.io/lyeve1998.top/post/ji-nian-pian/</id>
