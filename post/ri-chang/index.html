@@ -1,224 +1,132 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <head>
+    <meta charset="utf-8" >
 
-<title>Lyeve&#39;blog</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>【日常】关于实习 | Lyeve&#39;blog</title>
 
-<meta name="description" content="八大行星"/>
-<meta name="keywords" content="八大行星"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-<link rel="shortcut icon" href="https://lyeveyin.github.io/lyeveblog.top/favicon.ico">
-
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://lyeveyin.github.io/lyeveblog.top/favicon.ico?v=1629354654980">
 <link rel="stylesheet" href="https://lyeveyin.github.io/lyeveblog.top/styles/main.css">
 
-<!-- Modernizr JS -->
-<script src="https://lyeveyin.github.io/lyeveblog.top/media/scripts/modernizr-2.6.2.min.js"></script>
-<!-- FOR IE9 below -->
-<!--[if lt IE 9]>
-<scripts src="https://lyeveyin.github.io/lyeveblog.top/media/scripts/respond.min.js"></scripts>
-<![endif]-->
 
-<!-- Comment -->
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
 
-    
-        <link href="https://cdn.bootcss.com/gitalk/1.5.0/gitalk.min.css" rel="stylesheet">
-    
+  
 
-    
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-<!-- katex -->
-<!--<link href="https://cdn.bootcss.com/KaTeX/0.11.1/katex.min.css" rel="stylesheet">-->
+    <meta name="description" content="非经验向
 
-<link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
+第一次实习
+坐标：青岛
+一、求职（设计院类）
+   准备好个人简历和个人作品集下载boss直聘，注意联系方式一定要检查是否有误。筛选出你觉得薪资和工作内容合适的选项，或者你中意某家公司，即使招聘项没有实习生这一栏，你也可以主动联..." />
+    <meta name="keywords" content="日记" />
+  </head>
+  <body>
+    <div id="app" class="main">
 
-
-    <!-- 百度统计 -->
-    <script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?520196a724ca38a9b85e2152078efd4d";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-
-
-</head>
-<body>
-    <div id="fh5co-offcanvas">
-    <a href="#!" class="fh5co-close-offcanvas js-fh5co-close-offcanvas">
-        <span><i class="icon-cross3"></i> <span>Close</span></span>
-    </a>
-    <div class="fh5co-bio">
-        <figure>
-            <img src="https://lyeveyin.github.io/lyeveblog.top/images/avatar.png" alt="Lyeve&#39;blog"
-                 class="img-responsive">
-        </figure>
-        <a href="https://lyeveyin.github.io/lyeveblog.top/post/about/"><h3 class="heading">ABOUT ME</h3></a>
-        <h2>Lyeve&#39;blog</h2>
-        <p>八大行星</p>
-        <ul class="fh5co-social">
-            
-                <li>
-                    
-                        <a href="https://github.com/lyeveyin/lyeve1998.top" target="_blank">
-                            <i class="fab fa-github"></i>
-                        </a>
-                    
-                </li>
-            
-                <li>
-                    
-                </li>
-            
-                <li>
-                    
-                </li>
-            
-                <li>
-                    
-                </li>
-            
-                <li>
-                    
-                </li>
-            
-        </ul>
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://lyeveyin.github.io/lyeveblog.top">
+        <img src="https://lyeveyin.github.io/lyeveblog.top/images/avatar.png?v=1629354654980" class="site-logo">
+        <h1 class="site-title">Lyeve&#39;blog</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
     </div>
-
-    <div class="fh5co-menu">
-
-        <!-- 标签 -->
-        <div class="fh5co-box">
-            <a href="https://lyeveyin.github.io/lyeveblog.top/tags/"><h3 class="heading">👉标签</h3></a>
-            <ul>
-                
-                    <li><a href="https://lyeveyin.github.io/lyeveblog.top/tag/jWaTTxgtu/">语言</a></li>
-                
-                    <li><a href="https://lyeveyin.github.io/lyeveblog.top/tag/vJ9PT86ka/">音乐</a></li>
-                
-                    <li><a href="https://lyeveyin.github.io/lyeveblog.top/tag/6Yn276I5m/">软件</a></li>
-                
-                    <li><a href="https://lyeveyin.github.io/lyeveblog.top/tag/CEg8enPXe/">建筑</a></li>
-                
-            </ul>
-        </div>
+    <div>
+      
+        
+          <a href="https://lyeveyin.github.io/lyeveblog.top" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="https://lyeveyin.github.io/lyeveblog.top/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="https://lyeveyin.github.io/lyeveblog.top/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="https://lyeveyin.github.io/lyeveblog.top/tag/Iqo-JvVmo" class="site-nav">
+            日记
+          </a>
+        
+      
+        
+          <a href="https://lyeveyin.github.io/lyeveblog.top/post/tu-lang" class="site-nav">
+            摄影
+          </a>
+        
+      
+        
+          <a href="https://lyeveyin.github.io/lyeveblog.top/post/Links" class="site-nav">
+            Links
+          </a>
+        
+      
+        
+          <a href="https://lyeveyin.github.io/lyeveblog.top/tag/LLWGjIzOG" class="site-nav">
+            个人便利贴
+          </a>
+        
+      
     </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      八大行星
+    </div>
+    <div class="site-footer">
+       | <a class="rss" href="https://lyeveyin.github.io/lyeveblog.top/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
 </div>
 
-<header id="fh5co-header">
-    <div class="container-fluid">
-        <div class="row">
-            <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-            <ul class="fh5co-social">
-                
-                    <li>
-                        <a href="https://lyeveyin.github.io/lyeveblog.top"
-                        
-                        >
-                            首页
-                        </a>
-                    </li>
-                
-                    <li>
-                        <a href="https://lyeveyin.github.io/lyeveblog.top/archives"
-                        
-                        >
-                            归档
-                        </a>
-                    </li>
-                
-                    <li>
-                        <a href="https://lyeveyin.github.io/lyeveblog.top/tags"
-                        
-                        >
-                            标签
-                        </a>
-                    </li>
-                
-                    <li>
-                        <a href="https://lyeveyin.github.io/lyeveblog.top/tag/Iqo-JvVmo"
-                        
-                        >
-                            日记
-                        </a>
-                    </li>
-                
-                    <li>
-                        <a href="https://lyeveyin.github.io/lyeveblog.top/post/tu-lang"
-                        
-                        >
-                            摄影
-                        </a>
-                    </li>
-                
-                    <li>
-                        <a href="https://lyeveyin.github.io/lyeveblog.top/post/Links"
-                        
-                        >
-                            Links
-                        </a>
-                    </li>
-                
-                    <li>
-                        <a href="https://lyeveyin.github.io/lyeveblog.top/tag/LLWGjIzOG"
-                        
-                        >
-                            个人便利贴
-                        </a>
-                    </li>
-                
-            </ul>
-            <div class="col-lg-12 col-md-12 text-center">
-                <h1 id="fh5co-logo">
-                    <a href="https://lyeveyin.github.io/lyeveblog.top">Lyeve&#39;blog </a>
-                </h1>
-            </div>
-        </div>
-    </div>
-</header>
 
-
-    <!--  <a href="#" class="fh5co-post-prev"><span>👈 Prev</span></a>-->
-    <!--  <a href="#" class="fh5co-post-next"><span>Next 👉</span></a>-->
-
-    <!-- 等gridea出自定义页面功能再优化一下 -->
-    
-        <div class="container-fluid">
-    <div class="row fh5co-post-entry single-entry">
-        <article class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
-            <figure class="animate-box">
-                
-                    <img src="https://lyeveyin.github.io/lyeveblog.top/post-images/ri-chang.jpg" alt="【日常】关于实习" class="img-responsive">
-                
-            </figure>
-            <span class="fh5co-meta animate-box">
-                
-                    <div class="tag-container">
-                        
-                            <a href="https://lyeveyin.github.io/lyeveblog.top/tag/Iqo-JvVmo/" class="tag">日记, </a>
-                        
-                    </div>
-                
-            </span>
-            <h2 class="fh5co-article-title animate-box">【日常】关于实习</h2>
-            <ol class="breadcrumb fh5co-meta fh5co-date animate-box" style="margin-bottom:0; background-color:#f8f9fa">
-                <li>2021-08-01</li>
-                <li>1666字</li>
-                <li>6 min read</li>
-            </ol>
-
-            <div class="col-lg-12 col-lg-offset-0 col-md-12 col-md-offset-0 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-left content-article">
-                <div class="row">
-                    <div class="col-md-12 animate-box post-content">
-                        <p> <p>非经验向</p>
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">【日常】关于实习</h2>
+            <div class="post-date">2021-08-01</div>
+            
+              <div class="feature-container" style="background-image: url('https://lyeveyin.github.io/lyeveblog.top/post-images/ri-chang.jpg')">
+              </div>
+            
+            <div class="post-content" v-pre>
+              <p>非经验向</p>
 <!-- more -->
 <h1 id="第一次实习">第一次实习</h1>
 <p>坐标：青岛</p>
@@ -266,140 +174,74 @@ var _hmt = _hmt || [];
 笑容都关于明天</p>
 </blockquote>
 <p>6km的距离，每每总是得晚上7点伴随着日落到达学校，高楼大厦的外立面是绚烂的灯光，行走的路人脸上印着手机的光。仔细一看，的确是一副值得描绘的画面。学校食堂不会等你，此时晚餐的希望就是学校门口的路边摊。热干面不要辣、鸭血粉丝汤不要鸭血、双皮奶忌口葡萄干、鸡蛋灌饼加鸡柳......如此循环。“营养均衡”、“合理搭配”，甚至“特别想吃”都被“晚上随便买个吃的填报肚子”取代。胃口诚实地被偷走了灵魂。我就是疲惫的打工人，疲惫到做竞赛都只好把罪归因于通勤，仿佛建立了一个专为打工人通勤的系统、一座可反映情绪的打工人公寓和无数个像梦一样彩色的摩天轮节点就可以改变一切。图纸用了十分新颖的赛博朋克的风格，是的，就是那个表面展示高科技，但人生活没跟上的那个赛博朋克。或许不够纯正，可以叫网络朋克、公交朋克。想起陈铭所说，大多数人对于未来的畅想里往往是悲观的，暗色系又灯光绚烂的夜晚，可是从没有白云蓝天。所以我下次尽量多在白天看看窗外，包括天空和大海。</p>
- </p>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-md-12 animate-box">
-                        
-                    </div>
-                </div>
-
-                <div class="row">
-    <div class="col-md-12 animate-box">
-        
-            
-                <div id="gitalk-container"></div>
-            
-
-            
-        
-    </div>
-</div>
 
             </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://lyeveyin.github.io/lyeveblog.top/tag/Iqo-JvVmo/" class="tag">
+                    日记
+                  </a>
+                
+              </div>
+            
+            
 
-        </article>
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
     </div>
-</div>
 
-    
-
-    <!-- 返回顶部 -->
-    <div class="back-to-top">
-    
-        <a href="#!" id="tool-toc" class="hidden-xs hidden-sm">
-            <i class="fa fa-map"></i>
-        </a>
-        <br>
-    
-    <a href="#top" class="hidden-xs hidden-sm"><i class="fa fa-paper-plane"></i></a>
-</div>
-
-<div class="post-toc animated fadeInRight hidden-xs hidden-sm" style="display: none;">
-    <ul class="markdownIt-TOC">
-<li><a href="#%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AE%9E%E4%B9%A0">第一次实习</a>
-<ul>
-<li><a href="#%E4%B8%80-%E6%B1%82%E8%81%8C%E8%AE%BE%E8%AE%A1%E9%99%A2%E7%B1%BB">一、求职（设计院类）</a></li>
-<li><a href="#%E4%BA%8C-%E9%9D%A2%E8%AF%95">二、面试</a></li>
-<li><a href="#%E4%B8%89-%E5%85%A5%E8%81%8C%E5%85%AC%E5%8F%B8">三、入职公司</a></li>
-<li><a href="#%E5%9B%9B-%E6%97%A5%E5%B8%B8">四、日常</a><br>
-*
-<ul>
-<li><a href="#1-%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B">1. 《赛博朋克》</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-
-</div>
-
-
-    
-<footer id="fh5co-footer">
-  <p></p>
-</footer>
-
-
-    <!-- jQuery -->
-<script src="https://lyeveyin.github.io/lyeveblog.top/media/scripts/jquery.min.js"></script>
-<!-- img lazy load -->
-<script src="https://lyeveyin.github.io/lyeveblog.top/media/scripts/jquery.lazyload.min.js"></script>
-<!-- jQuery Easing -->
-<script src="https://lyeveyin.github.io/lyeveblog.top/media/scripts/jquery.easing.1.3.js"></script>
-<!-- Bootstrap -->
-<script src="https://lyeveyin.github.io/lyeveblog.top/media/scripts/bootstrap.min.js"></script>
-<!-- Waypoints -->
-<script src="https://lyeveyin.github.io/lyeveblog.top/media/scripts/jquery.waypoints.min.js"></script>
-<!-- Main JS -->
-<script src="https://lyeveyin.github.io/lyeveblog.top/media/scripts/main.js"></script>
-<!-- Md5 Min JS -->
-<script src="https://lyeveyin.github.io/lyeveblog.top/media/scripts/md5.min.js"></script>
-<!-- katex -->
-<!--<script src="https://cdn.bootcss.com/KaTeX/0.11.1/katex.min.js"></script>-->
-<!-- highlight -->
-<script src="https://cdn.bootcss.com/highlight.js/9.15.8/highlight.min.js"></script>
-
-
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script type="application/javascript">
-    // 代码高亮
-    hljs.initHighlightingOnLoad();
 
-    // img 懒加载
-    $(function () {
-        $("img.lazy").lazyload({
-            effect: "fadeIn",  // 懒加载动画
-            threshold: 180  // 在图片距离屏幕180px时提前载入
-        });
-        // tooltip
-        $('[data-toggle="tooltip"]').tooltip();
+AOS.init();
 
-        // 目录
-        $('#tool-toc').click(function () {
-            $('.post-toc').toggle();
-        });
-    });
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
-    
 </script>
 
 
 
-    
-        <script src="https://cdn.bootcss.com/gitalk/1.5.0/gitalk.min.js"></script>
-        <script>
-
-            var gitalk = new Gitalk({
-                clientID: '',
-                clientSecret: '',
-                repo: '',
-                owner: '',
-                admin: [''],
-                id: md5(location.pathname),      // Ensure uniqueness and length less than 50
-                distractionFreeMode: false  // Facebook-like distraction free mode
-            })
-
-            gitalk.render('gitalk-container')
-
-        </script>
-    
-
-    
 
 
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
-</body>
+
+
+  </body>
 </html>
