@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyeveyin.github.io/lyeveblog.top</id>
     <title>Lyeve&apos;blog</title>
-    <updated>2021-08-19T06:31:50.070Z</updated>
+    <updated>2021-08-20T06:09:52.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyeveyin.github.io/lyeveblog.top"/>
     <link rel="self" href="https://lyeveyin.github.io/lyeveblog.top/atom.xml"/>
@@ -11,7 +11,23 @@
     <icon>https://lyeveyin.github.io/lyeveblog.top/favicon.ico</icon>
     <rights>All rights reserved 2021, Lyeve&apos;blog</rights>
     <entry>
-        <title type="html"><![CDATA[【经验】 排坑]]></title>
+        <title type="html"><![CDATA[【排坑】PicGo上传失败]]></title>
+        <id>https://lyeveyin.github.io/lyeveblog.top/post/pai-keng-picgo-shang-chuan-shi-bai/</id>
+        <link href="https://lyeveyin.github.io/lyeveblog.top/post/pai-keng-picgo-shang-chuan-shi-bai/">
+        </link>
+        <updated>2021-08-19T09:39:47.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://lyeveyin.github.io/lyeveblog.top/post-images/1629366404380.png" alt="" loading="lazy"><br>
+<img src="https://lyeveyin.github.io/lyeveblog.top/post-images/1629366206174.png" alt="" loading="lazy"></p>
+<ol>
+<li>仓库名一定要“账户名/仓库名”的格式 注意不要出现空格</li>
+<li>分支名要写准确</li>
+<li>指定存储路径按照默认的填写</li>
+<li><strong>自定义域名</strong>（容易出问题的地方）按照“https://raw.githubusercontent.com/用户名/仓库名/分支名”格式填写（也有人说https://cdn.jsdelivr.net/gh/用户名/仓库名的格式 没试过）!</li>
+</ol>
+<img src="https://raw.githubusercontent.com/lyeveyin/image.top/main/img/1628001593998.png"/>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【排坑】手绘]]></title>
         <id>https://lyeveyin.github.io/lyeveblog.top/post/jing-yan-pai-keng/</id>
         <link href="https://lyeveyin.github.io/lyeveblog.top/post/jing-yan-pai-keng/">
         </link>
