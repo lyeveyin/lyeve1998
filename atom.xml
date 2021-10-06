@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyeveyin.github.io/lyeveblog.top</id>
     <title>Lyeve&apos;blog</title>
-    <updated>2021-10-06T15:08:05.619Z</updated>
+    <updated>2021-10-06T15:56:14.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyeveyin.github.io/lyeveblog.top"/>
     <link rel="self" href="https://lyeveyin.github.io/lyeveblog.top/atom.xml"/>
@@ -11,19 +11,45 @@
     <icon>https://lyeveyin.github.io/lyeveblog.top/favicon.ico</icon>
     <rights>All rights reserved 2021, Lyeve&apos;blog</rights>
     <entry>
-        <title type="html"><![CDATA[【经验】苹果手机如何翻墙]]></title>
+        <title type="html"><![CDATA[【排坑】Gridea&GitHub desktop]]></title>
+        <id>https://lyeveyin.github.io/lyeveblog.top/post/pai-keng-gridea-yu-dao-de-keng/</id>
+        <link href="https://lyeveyin.github.io/lyeveblog.top/post/pai-keng-gridea-yu-dao-de-keng/">
+        </link>
+        <updated>2021-10-06T15:35:58.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>gridea同步失败<br>
+解决办法：首先先检查是否远程连接成功，然后借助github desktop来push你的更新</li>
+<li>GitHub desktop的clone问题<br>
+解决办法：选择add local repository，路径选择你的gridea文件夹里的output文件夹，无法clone的话说明你没有将output文件夹里面清空<br>
+<img src="https://lyeveyin.github.io/lyeveblog.top/post-images/1633535518322.png" alt="" loading="lazy"></li>
+<li>GitHub desktop如何一键commit（是的，愚蠢的我之前一条一条的commit再push）<br>
+解决办法：第一步在summary处随便填写点东西，第二步点击commit<br>
+<img src="https://lyeveyin.github.io/lyeveblog.top/post-images/1633535150904.png" alt="" loading="lazy"></li>
+<li>github desktop点击完pushorigin显示失败<img src="https://lyeveyin.github.io/lyeveblog.top/post-images/1633534682114.png" alt="" loading="lazy"><br>
+<img src="https://lyeveyin.github.io/lyeveblog.top/post-images/1633534612533.png" alt="" loading="lazy"><br>
+解决办法: 翻墙</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【经验】翻墙相关]]></title>
         <id>https://lyeveyin.github.io/lyeveblog.top/post/jing-yan-ping-guo-shou-ji-ru-he-fan-qiang/</id>
         <link href="https://lyeveyin.github.io/lyeveblog.top/post/jing-yan-ping-guo-shou-ji-ru-he-fan-qiang/">
         </link>
         <updated>2021-10-06T15:03:38.000Z</updated>
-        <content type="html"><![CDATA[<p>来源：https://blog.naiyout.com/article/?type=detail&amp;id=30</p>
+        <content type="html"><![CDATA[<ol>
+<li>购买途径：<br>
+心阶云网站</li>
+<li>苹果手机翻墙<br>
+来源：https://blog.naiyout.com/article/?type=detail&amp;id=30</li>
+</ol>
 <p>第一步：登录appstore账号<br>
 美区账号1 【naiyou997@outlook.com】 禁止登陆iCloud；苹果密码【Ax112211】<br>
 美区账号2【naiyou999@outlook.com】禁止登陆iCloud；苹果密码【Ax112211】<br>
 美区账号3【naiyou996@outlook.com】禁止登陆iCloud；苹果密码【Ax112211】<br>
-日区账号 【naiyou998@outlook.com】禁止登陆iCloud；苹果密码【Am112211】</p>
-<p>第二步：下载shadowsocket</p>
-<p>第三步：添加类型为subscribe，粘贴订阅链接</p>
+日区账号 【naiyou998@outlook.com】禁止登陆iCloud；苹果密码【Am112211】<br>
+第二步：下载shadowsocket<br>
+第三步：添加类型为subscribe，粘贴订阅链接</p>
 ]]></content>
     </entry>
     <entry>
@@ -222,19 +248,6 @@ G——绿地与广场用地<br>
 2、形态<br>
 3、组团<br>
 4、轴线</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【纪念篇】]]></title>
-        <id>https://lyeveyin.github.io/lyeveblog.top/post/ji-nian-pian/</id>
-        <link href="https://lyeveyin.github.io/lyeveblog.top/post/ji-nian-pian/">
-        </link>
-        <updated>2021-06-17T03:32:48.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>20210610<br>
-第一次搭建博客<br>
-慢慢填坑吧<br>
-知识类分享/排雷经验/个人日常</p>
 ]]></content>
     </entry>
 </feed>
