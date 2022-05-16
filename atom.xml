@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lyeveyin.github.io/lyeve2Venus.top/</id>
+    <id>http://localhost:4000</id>
     <title>Lyeve&apos;Venus</title>
-    <updated>2022-05-15T07:19:17.400Z</updated>
+    <updated>2022-05-15T11:58:58.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lyeveyin.github.io/lyeve2Venus.top/"/>
-    <link rel="self" href="https://lyeveyin.github.io/lyeve2Venus.top/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>八大行星——金星记</subtitle>
-    <logo>https://lyeveyin.github.io/lyeve2Venus.top/images/avatar.png</logo>
-    <icon>https://lyeveyin.github.io/lyeve2Venus.top/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2022, Lyeve&apos;Venus</rights>
     <entry>
         <title type="html"><![CDATA[【建筑】地图哪些事儿]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/jian-zhu-di-tu-na-xie-shi-er/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/jian-zhu-di-tu-na-xie-shi-er/">
+        <id>http://localhost:4000/post/jian-zhu-di-tu-na-xie-shi-er/</id>
+        <link href="http://localhost:4000/post/jian-zhu-di-tu-na-xie-shi-er/">
         </link>
         <updated>2022-05-15T02:28:51.000Z</updated>
         <content type="html"><![CDATA[<ol>
@@ -24,7 +24,7 @@
 <li>优点：免费、简单易上手、可上传svg、可保存png格式、可修改背景图片、动画展示</li>
 <li>缺点：目前地图精度没有县区</li>
 <li>教程视频：<a href="https://www.bilibili.com/video/BV1RS4y167pW?p=2">免费工具 NB Map使用介绍</a><br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1652582864843.png" alt="网站界面" loading="lazy"></li>
+<img src="http://localhost:4000/post-images/1652582864843.png" alt="网站界面" loading="lazy"></li>
 </ul>
 </li>
 <li>
@@ -36,78 +36,36 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[书剑恩仇录]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/shu-jian-en-chou-lu/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/shu-jian-en-chou-lu/">
+        <id>http://localhost:4000/post/shu-jian-en-chou-lu/</id>
+        <link href="http://localhost:4000/post/shu-jian-en-chou-lu/">
         </link>
         <updated>2021-10-06T16:03:59.000Z</updated>
         <content type="html"><![CDATA[<p>第一本金庸小说</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【排坑】Gridea&GitHub desktop]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/pai-keng-gridea-yu-dao-de-keng/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/pai-keng-gridea-yu-dao-de-keng/">
-        </link>
-        <updated>2021-10-06T15:35:58.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>gridea同步失败<br>
-解决办法：首先先检查是否远程连接成功，然后借助github desktop来push你的更新</li>
-<li>GitHub desktop的clone问题<br>
-解决办法：选择add local repository，路径选择你的gridea文件夹里的output文件夹，无法clone的话说明你没有将output文件夹里面清空<br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1633535518322.png" alt="" loading="lazy"></li>
-<li>GitHub desktop如何一键commit（是的，愚蠢的我之前一条一条的commit再push）<br>
-解决办法：第一步在summary处随便填写点东西，第二步点击commit<br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1633535150904.png" alt="" loading="lazy"></li>
-<li>github desktop点击完pushorigin显示失败<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1633534682114.png" alt="" loading="lazy"><br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1633534612533.png" alt="" loading="lazy"><br>
-解决办法: 翻墙</li>
-</ol>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【经验】翻墙相关]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/jing-yan-ping-guo-shou-ji-ru-he-fan-qiang/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/jing-yan-ping-guo-shou-ji-ru-he-fan-qiang/">
-        </link>
-        <updated>2021-10-06T15:03:38.000Z</updated>
-        <content type="html"><![CDATA[<ol>
-<li>购买途径：<br>
-心阶云网站</li>
-<li>苹果手机翻墙<br>
-来源：https://blog.naiyout.com/article/?type=detail&amp;id=30</li>
-</ol>
-<p>第一步：登录appstore账号<br>
-美区账号1 【naiyou997@outlook.com】 禁止登陆iCloud；苹果密码【Ax112211】<br>
-美区账号2【naiyou999@outlook.com】禁止登陆iCloud；苹果密码【Ax112211】<br>
-美区账号3【naiyou996@outlook.com】禁止登陆iCloud；苹果密码【Ax112211】<br>
-日区账号 【naiyou998@outlook.com】禁止登陆iCloud；苹果密码【Am112211】<br>
-第二步：下载shadowsocket<br>
-第三步：添加类型为subscribe，粘贴订阅链接</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【经验】如何查看b站入站时间]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/jing-yan-ru-he-cha-kan-b-zhan-ru-zhan-shi-jian/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/jing-yan-ru-he-cha-kan-b-zhan-ru-zhan-shi-jian/">
+        <id>http://localhost:4000/post/jing-yan-ru-he-cha-kan-b-zhan-ru-zhan-shi-jian/</id>
+        <link href="http://localhost:4000/post/jing-yan-ru-he-cha-kan-b-zhan-ru-zhan-shi-jian/">
         </link>
         <updated>2021-08-23T08:35:12.000Z</updated>
         <content type="html"><![CDATA[<ol>
 <li>点击<a href="https://member.bilibili.com/x2/creative/h5/calendar/event?ts=0">查询注册时间</a></li>
 <li>找到jointime后面的那一串数字<br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1629708491811.png" alt="" loading="lazy"></li>
+<img src="http://localhost:4000/post-images/1629708491811.png" alt="" loading="lazy"></li>
 <li>打开<a href="https://tool.lu/timestamp">时间戳转换工具</a>可具体查询入站年月日时间<br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1629708346724.png" alt="" loading="lazy"></li>
+<img src="http://localhost:4000/post-images/1629708346724.png" alt="" loading="lazy"></li>
 </ol>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【排坑】PicGo上传失败]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/pai-keng-picgo-shang-chuan-shi-bai/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/pai-keng-picgo-shang-chuan-shi-bai/">
+        <id>http://localhost:4000/post/pai-keng-picgo-shang-chuan-shi-bai/</id>
+        <link href="http://localhost:4000/post/pai-keng-picgo-shang-chuan-shi-bai/">
         </link>
         <updated>2021-08-19T09:39:47.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1629366404380.png" alt="" loading="lazy"><br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1629366206174.png" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p><img src="http://localhost:4000/post-images/1629366404380.png" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1629366206174.png" alt="" loading="lazy"></p>
 <ol>
 <li>仓库名一定要“账户名/仓库名”的格式 注意不要出现空格</li>
 <li>分支名要写准确</li>
@@ -118,8 +76,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【排坑】手绘]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/jing-yan-pai-keng/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/jing-yan-pai-keng/">
+        <id>http://localhost:4000/post/jing-yan-pai-keng/</id>
+        <link href="http://localhost:4000/post/jing-yan-pai-keng/">
         </link>
         <updated>2021-08-06T12:27:49.000Z</updated>
         <content type="html"><![CDATA[<p>一、wacom手绘<br>
@@ -129,8 +87,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【语言类】]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/yu-yan-lei/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/yu-yan-lei/">
+        <id>http://localhost:4000/post/yu-yan-lei/</id>
+        <link href="http://localhost:4000/post/yu-yan-lei/">
         </link>
         <updated>2021-07-28T06:04:21.000Z</updated>
         <content type="html"><![CDATA[<p>一、单词<br>
@@ -146,8 +104,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【音乐类】]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/yin-le-lei/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/yin-le-lei/">
+        <id>http://localhost:4000/post/yin-le-lei/</id>
+        <link href="http://localhost:4000/post/yin-le-lei/">
         </link>
         <updated>2021-07-27T04:33:31.000Z</updated>
         <content type="html"><![CDATA[<p>一、物语音乐</p>
@@ -155,8 +113,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【建筑】软件相关]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/ruan-jian-lei/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/ruan-jian-lei/">
+        <id>http://localhost:4000/post/ruan-jian-lei/</id>
+        <link href="http://localhost:4000/post/ruan-jian-lei/">
         </link>
         <updated>2021-07-27T02:37:34.000Z</updated>
         <summary type="html"><![CDATA[<p>CAD与天正</p>
@@ -165,6 +123,77 @@
 <!-- more -->
 <p>1.查询面积<br>
 LIST、AA、cxmj</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【建筑类】]]></title>
+        <id>http://localhost:4000/post/jian-zhu-lei/</id>
+        <link href="http://localhost:4000/post/jian-zhu-lei/">
+        </link>
+        <updated>2021-07-27T01:55:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>【强排篇】</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>【强排篇】</p>
+<!-- more -->
+<h1 id="一">一、</h1>
+<p><strong>1、用地性质（常见）</strong><br>
+R11、21、31——一类二类三类住宅用地<br>
+R12、22、32——一类二类三类服务设施用地<br>
+A33——中小学用地<br>
+A5——医疗卫生用地<br>
+B1——商业用地<br>
+M——工业工地<br>
+G——绿地与广场用地<br>
+<strong>2、户型</strong><br>
+小于11 洋房一楼梯一电梯<br>
+11-18  小高一楼梯两电梯（电梯联通）<br>
+大于18 大高两楼梯两电梯<br>
+<strong>3、溢价</strong><br>
+在整个规划设计过程中的体现——提升产品单价<br>
+空间形态方面——位置、组团、轴线<br>
+入户系统方面<br>
+户型——分布位置、面宽大小及数量、赠送</p>
+<h1 id="二-基础资料">二、基础资料</h1>
+<p>（1）地形cad：道路红线、用地红线、绿线<br>
+（2）场地条件：场地内-竖向情况、场地外-城市区位/道路交通/周边地块性质/景观条件/日照条件<br>
+（3）规划条件：用地面积、容积率<br>
+（3）控规及合同：用地性质、规划条件<br>
+（4）营销要求：竞品分析、户配要求<br>
+（5）相关规范：规划类（间距与退距）及面积计算类规范（正确计算面积、面积赠送）</p>
+<h1 id="三-基本规划形态">三、基本规划形态</h1>
+<p><strong>1、南北分</strong><br>
+（1）节地<br>
+（2）组团<br>
+（3）视野<br>
+（4）日照<br>
+<strong>2、东西方</strong><br>
+<strong>3、&quot;L&quot;型</strong><br>
+<strong>4、&quot;U&quot;型</strong></p>
+<h1 id="四-cad准备">四、cad准备</h1>
+<p><strong>1、楼型组合</strong><br>
+基本原则：楼型最少化、户型最少化（位置、得房率）<br>
+<strong>2、地形图</strong><br>
+红线外:道路红线、道路宽度及文字标注、周边现状、周边用地性质、其他（机动车开口、交通站点、指北针、风玫瑰）<br>
+红线内：用地红线、建筑控制线、线性标注、尺寸及文字标注、道路及消防、其他（地面停车、简单的景观表达）<br>
+<strong>3、户型块</strong></p>
+<h1 id="五-规划手法">五、规划手法</h1>
+<p>1、分地<br>
+2、形态<br>
+3、组团<br>
+4、轴线</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【纪念篇】]]></title>
+        <id>http://localhost:4000/post/ji-nian-pian/</id>
+        <link href="http://localhost:4000/post/ji-nian-pian/">
+        </link>
+        <updated>2021-06-17T03:32:48.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>20210610<br>
+第一次搭建博客<br>
+慢慢填坑吧<br>
+知识类分享/排雷经验/个人日常</p>
 ]]></content>
     </entry>
 </feed>
