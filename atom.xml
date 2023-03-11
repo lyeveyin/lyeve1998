@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lyeveyin.github.io/lyeve2Venus.top/</id>
+    <id>https://lyeveyin.github.io/lyeve2Venus</id>
     <title>Lyeve&apos;s Venus</title>
-    <updated>2022-09-05T08:43:37.253Z</updated>
+    <updated>2023-03-11T15:15:57.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lyeveyin.github.io/lyeve2Venus.top/"/>
-    <link rel="self" href="https://lyeveyin.github.io/lyeve2Venus.top/atom.xml"/>
+    <link rel="alternate" href="https://lyeveyin.github.io/lyeve2Venus"/>
+    <link rel="self" href="https://lyeveyin.github.io/lyeve2Venus/atom.xml"/>
     <subtitle>八大行星——金星记</subtitle>
-    <logo>https://lyeveyin.github.io/lyeve2Venus.top/images/avatar.png</logo>
-    <icon>https://lyeveyin.github.io/lyeve2Venus.top/favicon.ico</icon>
-    <rights>All rights reserved 2022, Lyeve&apos;s Venus</rights>
+    <logo>https://lyeveyin.github.io/lyeve2Venus/images/avatar.png</logo>
+    <icon>https://lyeveyin.github.io/lyeve2Venus/favicon.ico</icon>
+    <rights>All rights reserved 2023, Lyeve&apos;s Venus</rights>
+    <entry>
+        <title type="html"><![CDATA[notion使用指南]]></title>
+        <id>https://lyeveyin.github.io/lyeve2Venus/post/notion-shi-yong-zhi-nan/</id>
+        <link href="https://lyeveyin.github.io/lyeve2Venus/post/notion-shi-yong-zhi-nan/">
+        </link>
+        <updated>2023-03-11T15:11:52.000Z</updated>
+        <content type="html"><![CDATA[<p>最近</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【互联网】UI/UX/前端相关学习]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/hu-lian-wang-uiuxqian-duan-xiang-guan-xue-xi/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/hu-lian-wang-uiuxqian-duan-xiang-guan-xue-xi/">
+        <id>https://lyeveyin.github.io/lyeve2Venus/post/hu-lian-wang-uiuxqian-duan-xiang-guan-xue-xi/</id>
+        <link href="https://lyeveyin.github.io/lyeve2Venus/post/hu-lian-wang-uiuxqian-duan-xiang-guan-xue-xi/">
         </link>
         <updated>2022-09-05T07:49:10.000Z</updated>
         <content type="html"><![CDATA[<p>相关网站：<br>
@@ -23,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【建筑】商业研究]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/jian-zhu-shang-ye-yan-jiu/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/jian-zhu-shang-ye-yan-jiu/">
+        <id>https://lyeveyin.github.io/lyeve2Venus/post/jian-zhu-shang-ye-yan-jiu/</id>
+        <link href="https://lyeveyin.github.io/lyeve2Venus/post/jian-zhu-shang-ye-yan-jiu/">
         </link>
         <updated>2022-09-05T07:47:58.000Z</updated>
         <content type="html"><![CDATA[<p>一、案例</p>
@@ -37,15 +46,15 @@
 次主力店<br>
 商铺：零售：餐饮<br>
 生活配套：客梯<br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1662367411610.png" alt="" loading="lazy"><br>
+<img src="https://lyeveyin.github.io/lyeve2Venus/post-images/1662367411610.png" alt="" loading="lazy"><br>
 自持：<br>
 销售</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【建筑】rhino软件学习]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/jian-zhu-rhino-ruan-jian-xue-xi/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/jian-zhu-rhino-ruan-jian-xue-xi/">
+        <id>https://lyeveyin.github.io/lyeve2Venus/post/jian-zhu-rhino-ruan-jian-xue-xi/</id>
+        <link href="https://lyeveyin.github.io/lyeve2Venus/post/jian-zhu-rhino-ruan-jian-xue-xi/">
         </link>
         <updated>2022-09-05T06:38:12.000Z</updated>
         <content type="html"><![CDATA[<h1 id="相关链接">相关链接：</h1>
@@ -376,8 +385,8 @@ F11	关闭控制点</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[【工具】更高效更灵活]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/gong-ju-geng-gao-xiao-geng-ling-huo/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/gong-ju-geng-gao-xiao-geng-ling-huo/">
+        <id>https://lyeveyin.github.io/lyeve2Venus/post/gong-ju-geng-gao-xiao-geng-ling-huo/</id>
+        <link href="https://lyeveyin.github.io/lyeve2Venus/post/gong-ju-geng-gao-xiao-geng-ling-huo/">
         </link>
         <updated>2022-05-18T06:35:22.000Z</updated>
         <content type="html"><![CDATA[<ol>
@@ -387,15 +396,15 @@ F11	关闭控制点</p>
 <li>
 <p><a href="https://qingk.com/home">氢刻</a><br>
 支持卡片式进行知识的整理并复习。有网页版也有app，界面整洁。<br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1652857088084.png" alt="" loading="lazy"></p>
+<img src="https://lyeveyin.github.io/lyeve2Venus/post-images/1652857088084.png" alt="" loading="lazy"></p>
 </li>
 </ol>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【建筑】地图哪些事儿]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/jian-zhu-di-tu-na-xie-shi-er/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/jian-zhu-di-tu-na-xie-shi-er/">
+        <id>https://lyeveyin.github.io/lyeve2Venus/post/jian-zhu-di-tu-na-xie-shi-er/</id>
+        <link href="https://lyeveyin.github.io/lyeve2Venus/post/jian-zhu-di-tu-na-xie-shi-er/">
         </link>
         <updated>2022-05-15T02:28:51.000Z</updated>
         <content type="html"><![CDATA[<ol>
@@ -406,7 +415,7 @@ F11	关闭控制点</p>
 <li>优点：免费、简单易上手、可上传svg、可保存png格式、可修改背景图片、动画展示</li>
 <li>缺点：目前地图精度没有县区</li>
 <li>教程视频：<a href="https://www.bilibili.com/video/BV1RS4y167pW?p=2">免费工具 NB Map使用介绍</a><br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1652582864843.png" alt="网站界面" loading="lazy"></li>
+<img src="https://lyeveyin.github.io/lyeve2Venus/post-images/1652582864843.png" alt="网站界面" loading="lazy"></li>
 </ul>
 </li>
 <li>
@@ -422,8 +431,8 @@ F11	关闭控制点</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[【读书】书剑恩仇录]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/shu-jian-en-chou-lu/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/shu-jian-en-chou-lu/">
+        <id>https://lyeveyin.github.io/lyeve2Venus/post/shu-jian-en-chou-lu/</id>
+        <link href="https://lyeveyin.github.io/lyeve2Venus/post/shu-jian-en-chou-lu/">
         </link>
         <updated>2021-10-06T16:03:59.000Z</updated>
         <content type="html"><![CDATA[<p>第一本金庸小说</p>
@@ -431,8 +440,8 @@ F11	关闭控制点</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[【排坑】Gridea&GitHub desktop]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/pai-keng-gridea-yu-dao-de-keng/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/pai-keng-gridea-yu-dao-de-keng/">
+        <id>https://lyeveyin.github.io/lyeve2Venus/post/pai-keng-gridea-yu-dao-de-keng/</id>
+        <link href="https://lyeveyin.github.io/lyeve2Venus/post/pai-keng-gridea-yu-dao-de-keng/">
         </link>
         <updated>2021-10-06T15:35:58.000Z</updated>
         <content type="html"><![CDATA[<ol>
@@ -440,20 +449,20 @@ F11	关闭控制点</p>
 解决办法：首先先检查是否远程连接成功，然后借助github desktop来push你的更新</li>
 <li>GitHub desktop的clone问题<br>
 解决办法：选择add local repository，路径选择你的gridea文件夹里的output文件夹，无法clone的话说明你没有将output文件夹里面清空<br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1633535518322.png" alt="" loading="lazy"></li>
+<img src="https://lyeveyin.github.io/lyeve2Venus/post-images/1633535518322.png" alt="" loading="lazy"></li>
 <li>GitHub desktop如何一键commit（是的，愚蠢的我之前一条一条的commit再push）<br>
 解决办法：第一步在summary处随便填写点东西，第二步点击commit<br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1633535150904.png" alt="" loading="lazy"></li>
-<li>github desktop点击完pushorigin显示失败<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1633534682114.png" alt="" loading="lazy"><br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1633534612533.png" alt="" loading="lazy"><br>
+<img src="https://lyeveyin.github.io/lyeve2Venus/post-images/1633535150904.png" alt="" loading="lazy"></li>
+<li>github desktop点击完pushorigin显示失败<img src="https://lyeveyin.github.io/lyeve2Venus/post-images/1633534682114.png" alt="" loading="lazy"><br>
+<img src="https://lyeveyin.github.io/lyeve2Venus/post-images/1633534612533.png" alt="" loading="lazy"><br>
 解决办法: 翻墙</li>
 </ol>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【经验】翻墙相关]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/jing-yan-ping-guo-shou-ji-ru-he-fan-qiang/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/jing-yan-ping-guo-shou-ji-ru-he-fan-qiang/">
+        <id>https://lyeveyin.github.io/lyeve2Venus/post/jing-yan-ping-guo-shou-ji-ru-he-fan-qiang/</id>
+        <link href="https://lyeveyin.github.io/lyeve2Venus/post/jing-yan-ping-guo-shou-ji-ru-he-fan-qiang/">
         </link>
         <updated>2021-10-06T15:03:38.000Z</updated>
         <content type="html"><![CDATA[<ol>
@@ -473,33 +482,17 @@ F11	关闭控制点</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[【经验】如何查看b站入站时间]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/jing-yan-ru-he-cha-kan-b-zhan-ru-zhan-shi-jian/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/jing-yan-ru-he-cha-kan-b-zhan-ru-zhan-shi-jian/">
+        <id>https://lyeveyin.github.io/lyeve2Venus/post/jing-yan-ru-he-cha-kan-b-zhan-ru-zhan-shi-jian/</id>
+        <link href="https://lyeveyin.github.io/lyeve2Venus/post/jing-yan-ru-he-cha-kan-b-zhan-ru-zhan-shi-jian/">
         </link>
         <updated>2021-08-23T08:35:12.000Z</updated>
         <content type="html"><![CDATA[<ol>
 <li>点击<a href="https://member.bilibili.com/x2/creative/h5/calendar/event?ts=0">查询注册时间</a></li>
 <li>找到jointime后面的那一串数字<br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1629708491811.png" alt="" loading="lazy"></li>
+<img src="https://lyeveyin.github.io/lyeve2Venus/post-images/1629708491811.png" alt="" loading="lazy"></li>
 <li>打开<a href="https://tool.lu/timestamp">时间戳转换工具</a>可具体查询入站年月日时间<br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1629708346724.png" alt="" loading="lazy"></li>
+<img src="https://lyeveyin.github.io/lyeve2Venus/post-images/1629708346724.png" alt="" loading="lazy"></li>
 </ol>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【排坑】PicGo上传失败]]></title>
-        <id>https://lyeveyin.github.io/lyeve2Venus.top/post/pai-keng-picgo-shang-chuan-shi-bai/</id>
-        <link href="https://lyeveyin.github.io/lyeve2Venus.top/post/pai-keng-picgo-shang-chuan-shi-bai/">
-        </link>
-        <updated>2021-08-19T09:39:47.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1629366404380.png" alt="" loading="lazy"><br>
-<img src="https://lyeveyin.github.io/lyeve2Venus.top//post-images/1629366206174.png" alt="" loading="lazy"></p>
-<ol>
-<li>仓库名一定要“账户名/仓库名”的格式 注意不要出现空格</li>
-<li>分支名要写准确</li>
-<li>指定存储路径按照默认的填写</li>
-<li><strong>自定义域名</strong>（容易出问题的地方）按照“https://raw.githubusercontent.com/用户名/仓库名/分支名”格式填写（也有人说https://cdn.jsdelivr.net/gh/用户名/仓库名的格式 没试过）!</li>
-</ol>
-<img src="https://raw.githubusercontent.com/lyeveyin/image.top/main/img/1628001593998.png"/>]]></content>
     </entry>
 </feed>
